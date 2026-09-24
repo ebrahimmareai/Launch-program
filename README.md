@@ -5,7 +5,7 @@ A multi-functional desktop productivity application built with Python. This tool
 ## Features
 
 ### Goal 1: Automated Group Launcher
-- **Discovery**: Easily select local files (`.exe`, `.pdf`, `.docx`, `.lnk`) or web URLs.
+- **Discovery**: Select local files (`.exe`, `.pdf`, `.docx`, `.lnk`) or web URLs.
 - **Group Management**: Create, edit, rename, and delete custom groups of items.
 - **One-Click Launch**: Launch all programs, documents, and websites in a saved group.
 
